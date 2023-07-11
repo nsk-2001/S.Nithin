@@ -1,5 +1,4 @@
 # S.Nithin
-<img align="right" alt="coding" width="100%" src=""><br>
 <h1 align="center">Hi 👋, I'm S Nithin</h1>
 <h3 align="center">BTECH STUDENT | WEB DEVELOPER | PASSIONATE LEARNER</h3>
 
