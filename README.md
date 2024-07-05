@@ -8,7 +8,7 @@
 
 - 🔭 Checkout my [GTech MuLearn profile](https://app.mulearn.org/profile/snithin@mulearn)
 
-- 🌱 I’m currently learning **Flutter,Dart**
+- 🌱 I’m  a **Fresher**
 
 - 🤝 Intern at GTech MuLearn as Intrest Group Management **Web Bootcamp**
 
