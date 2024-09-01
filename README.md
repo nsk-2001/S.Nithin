@@ -1,12 +1,12 @@
 <img align="right" alt="coding" width="100%" src="Gif2.gif"><br>
 <br><h1 align="center">Hi 👋, I'm S Nithin</h1>
-<h3 align="center">BTECH STUDENT | WEB DEVELOPER | PASSIONATE LEARNER</h3>
+<h3 align="center">BTECH GRADUATE | FULL STACK DEVELOPER | PASSIONATE LEARNER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsk-2001&label=Profile%20views&color=0e75b6&style=flat" alt="nsk-2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nithin30001455" target="blank"><img src="https://img.shields.io/twitter/follow/nithin30001455?logo=twitter&style=for-the-badge" alt="nithin30001455" /></a> </p>
 
-- 🔭 Checkout my [GTech MuLearn profile](https://app.mulearn.org/profile/snithin@mulearn)
+- 🔭 Checkout my [LeetCode Profile](https://leetcode.com/u/Its_Nithin001/)
 
 - 🌱 I’m  a **Fresher**
 
